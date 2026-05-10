@@ -17,6 +17,6 @@ This project is a professional-grade interactive dashboard built in Excel to ana
 * **Formatting:** Used custom currency and percentage formatting to ensure a professional UI/UX.
 * **Interactivity:** Integrated Slicers (not shown in all previews) to allow for data filtering by category.
 ## 🚀 How to Use
-1. Download the `Customer_Churn_Dashboard.xlsx` file.
+1. Download the `Customer_Churn_Dashboard.CSV` file.
 2. Open in Microsoft Excel (Desktop version recommended).
 3. If prompted, "Enable Content" to allow the Pivot Table and Slicer connections to function.
